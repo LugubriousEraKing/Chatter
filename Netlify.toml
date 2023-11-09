@@ -1,4 +1,4 @@
 [build]
   base = "./"  # Your base directory where the project is located
   publish = "./"  # Your publish directory, typically the same as the base directory
-  functions = "netlify/functions"  # Directory where you can store Netlify functions (if you choose to use them)
+  functions = "netlify/functions"  # Directory where you store Netlify functions
